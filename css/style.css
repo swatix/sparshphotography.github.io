@@ -1258,7 +1258,7 @@ button:focus {
 .blog_right_sidebar .newsletter_widget .form-control {
   font-size: 12px;
   line-height: 24px;
-  color: #cccccc;
+  color: #ffffff;
   border: 1px solid #eeeeee;
   border-left: 0px;
   border-radius: 0px;
@@ -1273,7 +1273,7 @@ button:focus {
 }
 
 .blog_right_sidebar .newsletter_widget .form-control::-moz-placeholder {
-  color: #cccccc;
+  color: #ffffff;
 }
 
 .blog_right_sidebar .newsletter_widget .form-control::-webkit-input-placeholder {
@@ -3368,15 +3368,15 @@ h1, h2, h3, h4, h5, h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_area {
-  background: #04091e;
+  background: #000000;
 }
 
 .f_title {
-  margin-bottom: 35px;
+  margin-bottom: 10px;
 }
 
 .f_title h3 {
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 18px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
@@ -3384,19 +3384,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .ab_widget {
-  max-width: 390px;
+  max-width: 400px;
 }
 
 .ab_widget p {
   font-size: 14px;
   line-height: 24px;
   font-family: "Poppins", sans-serif;
-  color: #777777;
+  color: #ffffff;
   margin-bottom: 30px;
 }
 
 .ab_widget p a {
-  color: #fcdc00;
+  color: #fff944;
 }
 
 .ab_widget p + p {
@@ -3411,7 +3411,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   line-height: 24px;
   font-family: "Poppins", sans-serif;
-  color: #777777;
+  color: #ffffff;
   margin-bottom: 15px;
 }
 
@@ -3424,14 +3424,14 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0px 15px;
   font-size: 14px;
   font-family: "Poppins", sans-serif;
-  color: #cccccc;
+  color: #ffffff;
   font-weight: 300;
 }
 
 .news_widget .input-group input.placeholder {
   font-size: 14px;
   font-family: "Poppins", sans-serif;
-  color: #cccccc;
+  color: #ffffff;
   font-weight: 300;
 }
 
@@ -3481,7 +3481,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .social_widget .list li a {
-  color: #cccccc;
+  color: #ffffff;
   font-size: 14px;
   -webkit-transition: all 300ms linear 0s;
   -o-transition: all 300ms linear 0s;
